@@ -7,5 +7,5 @@ developed by clive hunt
 """
 The GeoLiteCity.dat file is from MaxMind and was downloaded before the the new privacy rules 
 
-How to use enter ip in ip v4 format click submit
+How to use enter ip in IPv4 format click submit
 thats it done
