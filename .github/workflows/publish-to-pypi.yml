@@ -1,4 +1,4 @@
-name: ip-locator
+name: python-package
 
 on:
   push:
